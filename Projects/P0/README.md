@@ -23,7 +23,7 @@ Take the following steps to set up your Local Git Environment
       - ```git config --global user.name "your_name_here"```
       - ```git config --global user.email your_email_here```
 3. Add your ssh-keys to your GitHub account 
-4. Clone your repository using ssh ```git clone git@...```
+4. Clone your repository using ssh ```git@github.com:cmsc388T-winter22/git-setup.git```
 
 Once you have cloned the remote repository, checkout the setup branch
 
