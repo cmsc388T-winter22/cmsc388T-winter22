@@ -44,6 +44,11 @@ git push -u origin setup
 
 ## Checking Your Java Installation
 
+First clone the public class repository:
+```bash
+git clone git@github.com:cmsc388T-winter22/cmsc388T-winter22.git
+```
+
 Once you have cloned the repository, test your Java installation:
 
 ```bash
