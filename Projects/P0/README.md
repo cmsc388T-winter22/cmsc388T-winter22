@@ -25,6 +25,8 @@ Take the following steps to set up your Local Git Environment
 3. Add your ssh-keys to your GitHub account 
 4. Clone our setup repository using ssh ```git@github.com:cmsc388T-winter22/git-setup.git```
 
+**NOTE: We will need to add you to the class organization, before you can push any changes.**
+
 Once you have cloned the remote repository, checkout the setup branch
 
 ```bash
