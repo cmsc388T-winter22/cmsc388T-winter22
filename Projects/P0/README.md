@@ -1,5 +1,5 @@
 # Project 0
-Due: 01/03/22, 11:59pm EDT
+Due: 01/05/22, 11:59pm EDT
 
 ## Join The Organization
 Fill out [this form](https://forms.gle/oxTjdP9PJG7F5W8bA) with your name and GitHub username.
