@@ -65,6 +65,14 @@ javac -cp "junit-4.10.jar:." TestHelloWorld.java
 java -cp "junit-4.10.jar:." org.junit.runner.JUnitCore TestHelloWorld
 ```
 
+If you are on Windows, you may need to modify your commands:
+
+```bash
+cd path_to_repo\Projects\P0
+javac -cp "junit-4.10.jar;." TestHelloWorld.java 
+java -cp "junit-4.10.jar;." org.junit.runner.JUnitCore TestHelloWorld
+```
+
 ## Academic Integrity
 
 Please **carefully read** the academic honesty section of the course syllabus. **Any evidence** of impermissible cooperation on projects, use of disallowed materials or resources, or unauthorized use of computer accounts, **will be** submitted to the Student Honor Council, which could result in an XF for the course, or suspension or expulsion from the University. Be sure you understand what you are and what you are not permitted to do in regards to academic integrity when it comes to project assignments. These policies apply to all students, and the Student Honor Council does not consider lack of knowledge of the policies to be a defense for violating them. Full information is found in the course syllabus, which you should review before starting.
