@@ -1,6 +1,6 @@
 # Project 2: PacMan CI
 
-Due: 01/14, 11:59pm EDT 
+Due: 01/17, 11:59pm EDT 
 
 ## Before You Start
 
